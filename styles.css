@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    font-family: 'Orbitron', sans-serif;
+}
+
+.container{
+    color: #ff4800;
+    background: url(images/space\ 3.jpg);
+    background-size: cover;
+    background-position: center center;
+    min-width: none;height: 100vh;
+    text-align: center;
+    font-size: 40px;
+    text-align: center;
+    padding: 10px 0px 10px 0px ;
+}
+
+.app-btn{
+    margin-top: 30px;
+}
+
+.text{
+    margin-top: 150px;
+    text-decoration: solid;
+    font-weight: 200;
+}
+
+.btn{
+    padding: 6px 12px;
+    background-color: white;
+    border: none;
+    font-family: 'Orbitron', sans-serif;
+    color: #030708;
+    margin-top: 10px;
+    font-size: xx-large;
+    background-color: blanchedalmond;
+    font-weight: 800;
+    font-family: initial;
+    
+}
+
+#main-logo{
+    margin-top: -50px;
+    width: 170px;
+    
+}
+
+.underline {
+    color: aqua;
+    padding: 2px 3px;
+    font-style: italic; 
+    border-bottom: 4px solid white;
+}
+
+.termsc{
+    text-align: center;
+    font-weight: 800;
+    font-family: 'Orbitron', sans-serif;
+    font-size: 70px;
+    color: #0a5677;
+    
+}
+
